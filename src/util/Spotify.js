@@ -1,5 +1,5 @@
-const clientId = 'b7c53e7d00a04fbc89b7fc6d9e2fbcf1'; // Insert client ID here.
-const redirectUri = 'http://bucheli-jamming.surge.sh'; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
+const clientId = ''; // Insert client ID here.
+const redirectUri = ''; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
 let accessToken;
 
 const Spotify = {
